@@ -64,7 +64,7 @@
             "Countries": "Bolivia"
         },
         {
-            "Countries": "Bosnia and Herzegovina"
+            "Countries": "Bosnia"
         },
         {
             "Countries": "Botswana"
@@ -73,7 +73,7 @@
             "Countries": "Brazil"
         },
         {
-            "Countries": "Brunei Darussalam"
+            "Countries": "Brunei"
         },
         {
             "Countries": "Bulgaria"
@@ -85,6 +85,9 @@
             "Countries": "Burundi"
         },
         {
+            "Countries": "Cabo Verde"
+        },
+        {
             "Countries": "Cambodia"
         },
         {
@@ -92,9 +95,6 @@
         },
         {
             "Countries": "Canada"
-        },
-        {
-            "Countries": "Cape Verde"
         },
         {
             "Countries": "Central African Republic"
@@ -115,13 +115,16 @@
             "Countries": "Comoros"
         },
         {
-            "Countries": "Congo (Republic of the)"
+            "Countries": "Congo, Democratic Republic of the"
+        },
+        {
+            "Countries": "Congo, Republic of the"
         },
         {
             "Countries": "Costa Rica"
         },
         {
-            "Countries": "Côte d’Ivoire"
+            "Countries": "Cote d'Ivoire"
         },
         {
             "Countries": "Croatia"
@@ -133,13 +136,7 @@
             "Countries": "Cyprus"
         },
         {
-            "Countries": "Czech Republic"
-        },
-        {
-            "Countries": "Democratic People’s Republic of Korea"
-        },
-        {
-            "Countries": "Democratic Republic of the Congo"
+            "Countries": "Czech"
         },
         {
             "Countries": "Denmark"
@@ -170,6 +167,9 @@
         },
         {
             "Countries": "Estonia"
+        },
+        {
+            "Countries": "Eswatini"
         },
         {
             "Countries": "Ethiopia"
@@ -211,7 +211,7 @@
             "Countries": "Guinea"
         },
         {
-            "Countries": "Guinea-Bissau"
+            "Countries": "Guinea Bissau"
         },
         {
             "Countries": "Guyana"
@@ -268,13 +268,16 @@
             "Countries": "Kiribati"
         },
         {
+            "Countries": "Kosovo"
+        },
+        {
             "Countries": "Kuwait"
         },
         {
             "Countries": "Kyrgyzstan"
         },
         {
-            "Countries": "Lao People’s Democratic Republic"
+            "Countries": "Laos"
         },
         {
             "Countries": "Latvia"
@@ -331,7 +334,10 @@
             "Countries": "Mexico"
         },
         {
-            "Countries": "Micronesia (Federated States of)"
+            "Countries": "Micronesia"
+        },
+        {
+            "Countries": "Moldova"
         },
         {
             "Countries": "Monaco"
@@ -376,6 +382,12 @@
             "Countries": "Nigeria"
         },
         {
+            "Countries": "North Korea"
+        },
+        {
+            "Countries": "North Macedonia"
+        },
+        {
             "Countries": "Norway"
         },
         {
@@ -386,6 +398,9 @@
         },
         {
             "Countries": "Palau"
+        },
+        {
+            "Countries": "Palestine"
         },
         {
             "Countries": "Panama"
@@ -412,16 +427,10 @@
             "Countries": "Qatar"
         },
         {
-            "Countries": "Republic of Korea"
-        },
-        {
-            "Countries": "Republic of Moldova"
-        },
-        {
             "Countries": "Romania"
         },
         {
-            "Countries": "Russian Federation"
+            "Countries": "Russian"
         },
         {
             "Countries": "Rwanda"
@@ -478,6 +487,9 @@
             "Countries": "South Africa"
         },
         {
+            "Countries": "South Korea"
+        },
+        {
             "Countries": "South Sudan"
         },
         {
@@ -493,25 +505,25 @@
             "Countries": "Suriname"
         },
         {
-            "Countries": "Swaziland"
+            "Countries": "Sweden"
         },
         {
             "Countries": "Switzerland"
         },
         {
-            "Countries": "Sweden"
+            "Countries": "Syria"
         },
         {
-            "Countries": "Syria"
+            "Countries": "Taiwan"
         },
         {
             "Countries": "Tajikistan"
         },
         {
-            "Countries": "Thailand"
+            "Countries": "Tanzania"
         },
         {
-            "Countries": "The former Yugoslav Republic of Macedonia"
+            "Countries": "Thailand"
         },
         {
             "Countries": "Timor Leste"
@@ -550,10 +562,7 @@
             "Countries": "United Kingdom"
         },
         {
-            "Countries": "United of Republic of Tanzania"
-        },
-        {
-            "Countries": "United States"
+            "Countries": "United States of America"
         },
         {
             "Countries": "Uruguay"
@@ -563,6 +572,9 @@
         },
         {
             "Countries": "Vanuatu"
+        },
+        {
+            "Countries": "Vatican City"
         },
         {
             "Countries": "Venezuela"
@@ -575,6 +587,9 @@
         },
         {
             "Countries": "Zambia"
+        },
+        {
+            "Countries": "Zimbabwe"
         }
     ]
 }
