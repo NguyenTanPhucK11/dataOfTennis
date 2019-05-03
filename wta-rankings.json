@@ -1,0 +1,1264 @@
+﻿{
+    "Sheet": [
+        {
+            "player-name": "Karolina  Pliskova",
+            "current-rank": "4",
+            "player-country": "Czech Republic",
+            "player-points": "5580",
+            "prev-rank": "4"
+        },
+        {
+            "player-name": "Su-Wei Hsieh",
+            "current-rank": "24",
+            "player-country": "Chinese Taipei",
+            "player-points": "1960",
+            "prev-rank": "24"
+        },
+        {
+            "player-name": "Petra Kvitova",
+            "current-rank": "3",
+            "player-country": "Czech Republic",
+            "player-points": "5645",
+            "prev-rank": "3"
+        },
+        {
+            "player-name": "Ajla Tomljanovic",
+            "current-rank": "39",
+            "player-country": "Australia",
+            "player-points": "1253",
+            "prev-rank": "39"
+        },
+        {
+            "player-name": "Dayana Yastremska",
+            "current-rank": "37",
+            "player-country": "Ukraine",
+            "player-points": "1400",
+            "prev-rank": "37"
+        },
+        {
+            "player-name": "Elina Svitolina",
+            "current-rank": "6",
+            "player-country": "Ukraine",
+            "player-points": "5020",
+            "prev-rank": "6"
+        },
+        {
+            "player-name": "Maria Sharapova",
+            "current-rank": "28",
+            "player-country": "Russia",
+            "player-points": "1706",
+            "prev-rank": "28"
+        },
+        {
+            "player-name": "Elise Mertens",
+            "current-rank": "18",
+            "player-country": "Belgium",
+            "player-points": "2580",
+            "prev-rank": "17"
+        },
+        {
+            "player-name": "Donna Vekic",
+            "current-rank": "25",
+            "player-country": "Croatia",
+            "player-points": "1875",
+            "prev-rank": "25"
+        },
+        {
+            "player-name": "Saisai Zheng",
+            "current-rank": "43",
+            "player-country": "China",
+            "player-points": "1205",
+            "prev-rank": "43"
+        },
+        {
+            "player-name": "Madison Keys",
+            "current-rank": "14",
+            "player-country": "Usa",
+            "player-points": "3011",
+            "prev-rank": "14"
+        },
+        {
+            "player-name": "Barbora Strycova",
+            "current-rank": "48",
+            "player-country": "Czech Republic",
+            "player-points": "1166",
+            "prev-rank": "48"
+        },
+        {
+            "player-name": "Bibiane Schoofs",
+            "current-rank": "149",
+            "player-country": "Netherlands",
+            "player-points": "396",
+            "prev-rank": "162"
+        },
+        {
+            "player-name": "Viktoriya Tomova",
+            "current-rank": "151",
+            "player-country": "Bulgaria",
+            "player-points": "391",
+            "prev-rank": "150"
+        },
+        {
+            "player-name": "Tamara Korpatsch",
+            "current-rank": "152",
+            "player-country": "Germany",
+            "player-points": "387",
+            "prev-rank": "131"
+        },
+        {
+            "player-name": "Magdalena Frech",
+            "current-rank": "172",
+            "player-country": "Poland",
+            "player-points": "348",
+            "prev-rank": "174"
+        },
+        {
+            "player-name": "Fanny Stollar",
+            "current-rank": "145",
+            "player-country": "Hungary",
+            "player-points": "406",
+            "prev-rank": "146"
+        },
+        {
+            "player-name": "Varvara Lepchenko",
+            "current-rank": "140",
+            "player-country": "Usa",
+            "player-points": "417",
+            "prev-rank": "151"
+        },
+        {
+            "player-name": "Lauren Davis",
+            "current-rank": "162",
+            "player-country": "Usa",
+            "player-points": "367",
+            "prev-rank": "159"
+        },
+        {
+            "player-name": "Danielle Lao",
+            "current-rank": "155",
+            "player-country": "Usa",
+            "player-points": "378",
+            "prev-rank": "155"
+        },
+        {
+            "player-name": "Allie Kiick",
+            "current-rank": "139",
+            "player-country": "Usa",
+            "player-points": "429",
+            "prev-rank": "139"
+        },
+        {
+            "player-name": "Marie Bouzkova",
+            "current-rank": "115",
+            "player-country": "Czech Republic",
+            "player-points": "534",
+            "prev-rank": "117"
+        },
+        {
+            "player-name": "Lucie Safarova",
+            "current-rank": "133",
+            "player-country": "Czech Republic",
+            "player-points": "451",
+            "prev-rank": "134"
+        },
+        {
+            "player-name": "Stefanie Voegele",
+            "current-rank": "109",
+            "player-country": "Switzerland",
+            "player-points": "596",
+            "prev-rank": "97"
+        },
+        {
+            "player-name": "Timea Bacsinszky",
+            "current-rank": "111",
+            "player-country": "Switzerland",
+            "player-points": "579",
+            "prev-rank": "112"
+        },
+        {
+            "player-name": "Svetlana Kuznetsova",
+            "current-rank": "100",
+            "player-country": "Russia",
+            "player-points": "621",
+            "prev-rank": "109"
+        },
+        {
+            "player-name": "Anhelina Kalinina",
+            "current-rank": "135",
+            "player-country": "Ukraine",
+            "player-points": "443",
+            "prev-rank": "123"
+        },
+        {
+            "player-name": "Christina McHale",
+            "current-rank": "129",
+            "player-country": "Usa",
+            "player-points": "466",
+            "prev-rank": "129"
+        },
+        {
+            "player-name": "Madison Brengle",
+            "current-rank": "97",
+            "player-country": "Usa",
+            "player-points": "637",
+            "prev-rank": "96"
+        },
+        {
+            "player-name": "Nicole  Gibbs",
+            "current-rank": "114",
+            "player-country": "Usa",
+            "player-points": "547",
+            "prev-rank": "113"
+        },
+        {
+            "player-name": "Nao Hibino",
+            "current-rank": "112",
+            "player-country": "Japan",
+            "player-points": "557",
+            "prev-rank": "110"
+        },
+        {
+            "player-name": "Barbora Krejcikova",
+            "current-rank": "157",
+            "player-country": "Czech Republic",
+            "player-points": "373",
+            "prev-rank": "156"
+        },
+        {
+            "player-name": "Valentini Grammatikopoulou",
+            "current-rank": "199",
+            "player-country": "Greece",
+            "player-points": "301",
+            "prev-rank": "178"
+        },
+        {
+            "player-name": "Georgina Garcia Perez",
+            "current-rank": "181",
+            "player-country": "Spain",
+            "player-points": "332",
+            "prev-rank": "184"
+        },
+        {
+            "player-name": "Destanee Aiava",
+            "current-rank": "200",
+            "player-country": "Australia",
+            "player-points": "301",
+            "prev-rank": "188"
+        },
+        {
+            "player-name": "Rebecca Marino",
+            "current-rank": "184",
+            "player-country": "Canada",
+            "player-points": "322",
+            "prev-rank": "204"
+        },
+        {
+            "player-name": "Irina Bara",
+            "current-rank": "188",
+            "player-country": "Romania",
+            "player-points": "317",
+            "prev-rank": "170"
+        },
+        {
+            "player-name": "Jia-Jing Lu",
+            "current-rank": "174",
+            "player-country": "China",
+            "player-points": "347",
+            "prev-rank": "171"
+        },
+        {
+            "player-name": "Anastasia Pavlyuchenkova",
+            "current-rank": "34",
+            "player-country": "Russia",
+            "player-points": "1510",
+            "prev-rank": "34"
+        },
+        {
+            "player-name": "Ekaterina Alexandrova",
+            "current-rank": "57",
+            "player-country": "Russia",
+            "player-points": "1013",
+            "prev-rank": "57"
+        },
+        {
+            "player-name": "Viktoria Kuzmova",
+            "current-rank": "45",
+            "player-country": "Slovakia",
+            "player-points": "1195",
+            "prev-rank": "46"
+        },
+        {
+            "player-name": "Sara Sorribes Tormo",
+            "current-rank": "75",
+            "player-country": "Spain",
+            "player-points": "785",
+            "prev-rank": "79"
+        },
+        {
+            "player-name": "Aleksandra Krunic",
+            "current-rank": "63",
+            "player-country": "Serbia",
+            "player-points": "975",
+            "prev-rank": "62"
+        },
+        {
+            "player-name": "Eugenie Bouchard",
+            "current-rank": "81",
+            "player-country": "Canada",
+            "player-points": "761",
+            "prev-rank": "77"
+        },
+        {
+            "player-name": "Evgeniya Rodina",
+            "current-rank": "69",
+            "player-country": "Russia",
+            "player-points": "820",
+            "prev-rank": "69"
+        },
+        {
+            "player-name": "Magda Linette",
+            "current-rank": "89",
+            "player-country": "Poland",
+            "player-points": "695",
+            "prev-rank": "85"
+        },
+        {
+            "player-name": "Maria Sakkari",
+            "current-rank": "44",
+            "player-country": "Greece",
+            "player-points": "1197",
+            "prev-rank": "44"
+        },
+        {
+            "player-name": "Lin Zhu",
+            "current-rank": "94",
+            "player-country": "China",
+            "player-points": "665",
+            "prev-rank": "94"
+        },
+        {
+            "player-name": "Angelique Kerber",
+            "current-rank": "5",
+            "player-country": "Germany",
+            "player-points": "5220",
+            "prev-rank": "5"
+        },
+        {
+            "player-name": "Naomi Osaka",
+            "current-rank": "1",
+            "player-country": "Japan",
+            "player-points": "5967",
+            "prev-rank": "1"
+        },
+        {
+            "player-name": "Kristyna Pliskova",
+            "current-rank": "87",
+            "player-country": "Czech Republic",
+            "player-points": "698",
+            "prev-rank": "101"
+        },
+        {
+            "player-name": "Viktorija Golubic",
+            "current-rank": "80",
+            "player-country": "Switzerland",
+            "player-points": "764",
+            "prev-rank": "81"
+        },
+        {
+            "player-name": "Natalia Vikhlyantseva",
+            "current-rank": "113",
+            "player-country": "Russia",
+            "player-points": "553",
+            "prev-rank": "111"
+        },
+        {
+            "player-name": "Heather Watson",
+            "current-rank": "118",
+            "player-country": "Great Britain",
+            "player-points": "522",
+            "prev-rank": "116"
+        },
+        {
+            "player-name": "Dalila Jakupovic",
+            "current-rank": "103",
+            "player-country": "Slovenia",
+            "player-points": "610",
+            "prev-rank": "90"
+        },
+        {
+            "player-name": "Kateryna Kozlova",
+            "current-rank": "93",
+            "player-country": "Ukraine",
+            "player-points": "677",
+            "prev-rank": "92"
+        },
+        {
+            "player-name": "Lara Arruabarrena",
+            "current-rank": "117",
+            "player-country": "Spain",
+            "player-points": "525",
+            "prev-rank": "106"
+        },
+        {
+            "player-name": "Mona Barthel",
+            "current-rank": "90",
+            "player-country": "Germany",
+            "player-points": "689",
+            "prev-rank": "84"
+        },
+        {
+            "player-name": "Taylor Townsend",
+            "current-rank": "84",
+            "player-country": "Usa",
+            "player-points": "726",
+            "prev-rank": "80"
+        },
+        {
+            "player-name": "Misaki Doi",
+            "current-rank": "104",
+            "player-country": "Japan",
+            "player-points": "609",
+            "prev-rank": "100"
+        },
+        {
+            "player-name": "Marketa Vondrousova",
+            "current-rank": "47",
+            "player-country": "Czech Republic",
+            "player-points": "1167",
+            "prev-rank": "45"
+        },
+        {
+            "player-name": "Amanda Anisimova",
+            "current-rank": "54",
+            "player-country": "United States",
+            "player-points": "1048",
+            "prev-rank": "76"
+        },
+        {
+            "player-name": "Johanna Konta",
+            "current-rank": "46",
+            "player-country": "Great Britain",
+            "player-points": "1180",
+            "prev-rank": "47"
+        },
+        {
+            "player-name": "Yulia Putintseva",
+            "current-rank": "38",
+            "player-country": "Kazakhstan",
+            "player-points": "1291",
+            "prev-rank": "38"
+        },
+        {
+            "player-name": "Alison Van Uytvanck",
+            "current-rank": "52",
+            "player-country": "Belgium",
+            "player-points": "1070",
+            "prev-rank": "52"
+        },
+        {
+            "player-name": "Pauline Parmentier",
+            "current-rank": "53",
+            "player-country": "France",
+            "player-points": "1059",
+            "prev-rank": "53"
+        },
+        {
+            "player-name": "Alize Cornet",
+            "current-rank": "55",
+            "player-country": "France",
+            "player-points": "1040",
+            "prev-rank": "54"
+        },
+        {
+            "player-name": "Venus Williams",
+            "current-rank": "49",
+            "player-country": "Usa",
+            "player-points": "1115",
+            "prev-rank": "49"
+        },
+        {
+            "player-name": "Yafan Wang",
+            "current-rank": "51",
+            "player-country": "China",
+            "player-points": "1093",
+            "prev-rank": "51"
+        },
+        {
+            "player-name": "Alison Riske",
+            "current-rank": "50",
+            "player-country": "Usa",
+            "player-points": "1103",
+            "prev-rank": "50"
+        },
+        {
+            "player-name": "Danielle Collins",
+            "current-rank": "32",
+            "player-country": "United States",
+            "player-points": "1536",
+            "prev-rank": "32"
+        },
+        {
+            "player-name": "Belinda Bencic",
+            "current-rank": "20",
+            "player-country": "Switzerland",
+            "player-points": "2515",
+            "prev-rank": "20"
+        },
+        {
+            "player-name": "Caroline Wozniacki",
+            "current-rank": "12",
+            "player-country": "Denmark",
+            "player-points": "3421",
+            "prev-rank": "12"
+        },
+        {
+            "player-name": "Carla Suarez Navarro",
+            "current-rank": "27",
+            "player-country": "Spain",
+            "player-points": "1718",
+            "prev-rank": "27"
+        },
+        {
+            "player-name": "Anett Kontaveit",
+            "current-rank": "15",
+            "player-country": "Estonia",
+            "player-points": "2845",
+            "prev-rank": "15"
+        },
+        {
+            "player-name": "Julia Goerges",
+            "current-rank": "17",
+            "player-country": "Germany",
+            "player-points": "2630",
+            "prev-rank": "18"
+        },
+        {
+            "player-name": "Caroline Garcia",
+            "current-rank": "21",
+            "player-country": "France",
+            "player-points": "2460",
+            "prev-rank": "21"
+        },
+        {
+            "player-name": "Garbine Muguruza",
+            "current-rank": "19",
+            "player-country": "Spain",
+            "player-points": "2525",
+            "prev-rank": "19"
+        },
+        {
+            "player-name": "Serena Williams",
+            "current-rank": "11",
+            "player-country": "Usa",
+            "player-points": "3461",
+            "prev-rank": "11"
+        },
+        {
+            "player-name": "Sloane Stephens",
+            "current-rank": "8",
+            "player-country": "Usa",
+            "player-points": "4386",
+            "prev-rank": "8"
+        },
+        {
+            "player-name": "Richel Hogenkamp",
+            "current-rank": "176",
+            "player-country": "Netherlands",
+            "player-points": "339",
+            "prev-rank": "168"
+        },
+        {
+            "player-name": "Lesley Kerkhove",
+            "current-rank": "187",
+            "player-country": "Netherlands",
+            "player-points": "319",
+            "prev-rank": "192"
+        },
+        {
+            "player-name": "Sabina Sharipova",
+            "current-rank": "156",
+            "player-country": "Uzbekistan",
+            "player-points": "375",
+            "prev-rank": "136"
+        },
+        {
+            "player-name": "Kimberly Birrell",
+            "current-rank": "164",
+            "player-country": "Australia",
+            "player-points": "360",
+            "prev-rank": "161"
+        },
+        {
+            "player-name": "Antonia Lottner",
+            "current-rank": "163",
+            "player-country": "Germany",
+            "player-points": "364",
+            "prev-rank": "182"
+        },
+        {
+            "player-name": "Tereza Mrdeza",
+            "current-rank": "189",
+            "player-country": "Croatia",
+            "player-points": "315",
+            "prev-rank": "195"
+        },
+        {
+            "player-name": "Barbara Haas",
+            "current-rank": "191",
+            "player-country": "Austria",
+            "player-points": "313",
+            "prev-rank": "193"
+        },
+        {
+            "player-name": "Ankita Raina",
+            "current-rank": "180",
+            "player-country": "India",
+            "player-points": "333",
+            "prev-rank": "203"
+        },
+        {
+            "player-name": "Fangzhou Liu",
+            "current-rank": "154",
+            "player-country": "China",
+            "player-points": "385",
+            "prev-rank": "153"
+        },
+        {
+            "player-name": "Kristie Ahn",
+            "current-rank": "193",
+            "player-country": "Usa",
+            "player-points": "310",
+            "prev-rank": "205"
+        },
+        {
+            "player-name": "Tereza Smitkova",
+            "current-rank": "123",
+            "player-country": "Czech Republic",
+            "player-points": "485",
+            "prev-rank": "121"
+        },
+        {
+            "player-name": "Ysaline Bonaventure",
+            "current-rank": "122",
+            "player-country": "Belgium",
+            "player-points": "490",
+            "prev-rank": "122"
+        },
+        {
+            "player-name": "Paula Badosa Gibert",
+            "current-rank": "126",
+            "player-country": "Spain",
+            "player-points": "476",
+            "prev-rank": "127"
+        },
+        {
+            "player-name": "Yanina Wickmayer",
+            "current-rank": "127",
+            "player-country": "Belgium",
+            "player-points": "473",
+            "prev-rank": "126"
+        },
+        {
+            "player-name": "Irina Khromacheva",
+            "current-rank": "137",
+            "player-country": "Russia",
+            "player-points": "434",
+            "prev-rank": "137"
+        },
+        {
+            "player-name": "Arantxa Rus",
+            "current-rank": "128",
+            "player-country": "Netherlands",
+            "player-points": "469",
+            "prev-rank": "128"
+        },
+        {
+            "player-name": "Varvara Flink",
+            "current-rank": "144",
+            "player-country": "Russia",
+            "player-points": "408",
+            "prev-rank": "145"
+        },
+        {
+            "player-name": "Anna Blinkova",
+            "current-rank": "121",
+            "player-country": "Russia",
+            "player-points": "498",
+            "prev-rank": "119"
+        },
+        {
+            "player-name": "Timea Babos",
+            "current-rank": "142",
+            "player-country": "Hungary",
+            "player-points": "413",
+            "prev-rank": "142"
+        },
+        {
+            "player-name": "Shuai Peng",
+            "current-rank": "120",
+            "player-country": "China",
+            "player-points": "501",
+            "prev-rank": "120"
+        },
+        {
+            "player-name": "Veronika Kudermetova",
+            "current-rank": "76",
+            "player-country": "Russia",
+            "player-points": "782",
+            "prev-rank": "83"
+        },
+        {
+            "player-name": "Victoria Azarenka",
+            "current-rank": "61",
+            "player-country": "Belarus",
+            "player-points": "1001",
+            "prev-rank": "60"
+        },
+        {
+            "player-name": "Samantha Stosur",
+            "current-rank": "77",
+            "player-country": "Australia",
+            "player-points": "781",
+            "prev-rank": "73"
+        },
+        {
+            "player-name": "Daria Gavrilova",
+            "current-rank": "58",
+            "player-country": "Australia",
+            "player-points": "1010",
+            "prev-rank": "58"
+        },
+        {
+            "player-name": "Kirsten Flipkens",
+            "current-rank": "59",
+            "player-country": "Belgium",
+            "player-points": "1010",
+            "prev-rank": "55"
+        },
+        {
+            "player-name": "Vitalia Diatchenko",
+            "current-rank": "73",
+            "player-country": "Russia",
+            "player-points": "787",
+            "prev-rank": "95"
+        },
+        {
+            "player-name": "Tamara Zidansek",
+            "current-rank": "67",
+            "player-country": "Slovenia",
+            "player-points": "856",
+            "prev-rank": "67"
+        },
+        {
+            "player-name": "Rebecca Peterson",
+            "current-rank": "65",
+            "player-country": "Sweden",
+            "player-points": "922",
+            "prev-rank": "64"
+        },
+        {
+            "player-name": "Ons Jabeur",
+            "current-rank": "56",
+            "player-country": "Tunisia",
+            "player-points": "1040",
+            "prev-rank": "56"
+        },
+        {
+            "player-name": "Jessica Pegula",
+            "current-rank": "78",
+            "player-country": "Usa",
+            "player-points": "775",
+            "prev-rank": "74"
+        },
+        {
+            "player-name": "Sesil Karatantcheva",
+            "current-rank": "196",
+            "player-country": "Bulgaria",
+            "player-points": "306",
+            "prev-rank": "191"
+        },
+        {
+            "player-name": "Rebecca Sramkova",
+            "current-rank": "197",
+            "player-country": "Slovakia",
+            "player-points": "306",
+            "prev-rank": "190"
+        },
+        {
+            "player-name": "Anna Zaja",
+            "current-rank": "195",
+            "player-country": "Germany",
+            "player-points": "306",
+            "prev-rank": "196"
+        },
+        {
+            "player-name": "Anastasija Sevastova",
+            "current-rank": "13",
+            "player-country": "Latvia",
+            "player-points": "3145",
+            "prev-rank": "13"
+        },
+        {
+            "player-name": "Kiki Bertens",
+            "current-rank": "7",
+            "player-country": "Netherlands",
+            "player-points": "4640",
+            "prev-rank": "7"
+        },
+        {
+            "player-name": "Ashleigh Barty",
+            "current-rank": "9",
+            "player-country": "Australia",
+            "player-points": "4275",
+            "prev-rank": "9"
+        },
+        {
+            "player-name": "Bianca Andreescu",
+            "current-rank": "23",
+            "player-country": "Canada",
+            "player-points": "1979",
+            "prev-rank": "23"
+        },
+        {
+            "player-name": "Aryna Sabalenka",
+            "current-rank": "10",
+            "player-country": "Belarus",
+            "player-points": "3520",
+            "prev-rank": "10"
+        },
+        {
+            "player-name": "Daria Kasatkina",
+            "current-rank": "22",
+            "player-country": "Russia",
+            "player-points": "2355",
+            "prev-rank": "22"
+        },
+        {
+            "player-name": "Simona Halep",
+            "current-rank": "2",
+            "player-country": "Romania",
+            "player-points": "5782",
+            "prev-rank": "2"
+        },
+        {
+            "player-name": "Qiang Wang",
+            "current-rank": "16",
+            "player-country": "China",
+            "player-points": "2812",
+            "prev-rank": "16"
+        },
+        {
+            "player-name": "Tereza Martincova",
+            "current-rank": "153",
+            "player-country": "Czech Republic",
+            "player-points": "386",
+            "prev-rank": "154"
+        },
+        {
+            "player-name": "Veronica Cepede Royg",
+            "current-rank": "158",
+            "player-country": "Paraguay",
+            "player-points": "372",
+            "prev-rank": "157"
+        },
+        {
+            "player-name": "Giulia Gatto-Monticone",
+            "current-rank": "165",
+            "player-country": "Italy",
+            "player-points": "357",
+            "prev-rank": "173"
+        },
+        {
+            "player-name": "Ekaterine Gorgodze",
+            "current-rank": "150",
+            "player-country": "Georgia",
+            "player-points": "392",
+            "prev-rank": "149"
+        },
+        {
+            "player-name": "Jil Teichmann",
+            "current-rank": "147",
+            "player-country": "Switzerland",
+            "player-points": "404",
+            "prev-rank": "152"
+        },
+        {
+            "player-name": "Conny Perrin",
+            "current-rank": "143",
+            "player-country": "Switzerland",
+            "player-points": "410",
+            "prev-rank": "144"
+        },
+        {
+            "player-name": "Danka Kovinic",
+            "current-rank": "160",
+            "player-country": "Montenegro",
+            "player-points": "369",
+            "prev-rank": "141"
+        },
+        {
+            "player-name": "Martina Trevisan",
+            "current-rank": "146",
+            "player-country": "Italy",
+            "player-points": "405",
+            "prev-rank": "147"
+        },
+        {
+            "player-name": "Ana Bogdan",
+            "current-rank": "148",
+            "player-country": "Romania",
+            "player-points": "402",
+            "prev-rank": "124"
+        },
+        {
+            "player-name": "Sachia Vickery",
+            "current-rank": "138",
+            "player-country": "Usa",
+            "player-points": "431",
+            "prev-rank": "148"
+        },
+        {
+            "player-name": "Alexandra Dulgheru",
+            "current-rank": "168",
+            "player-country": "Romania",
+            "player-points": "353",
+            "prev-rank": "164"
+        },
+        {
+            "player-name": "Arina Rodionova",
+            "current-rank": "177",
+            "player-country": "Australia",
+            "player-points": "337",
+            "prev-rank": "176"
+        },
+        {
+            "player-name": "Na-Lae Han",
+            "current-rank": "192",
+            "player-country": "South Korea",
+            "player-points": "313",
+            "prev-rank": "194"
+        },
+        {
+            "player-name": "Anna Kalinskaya",
+            "current-rank": "185",
+            "player-country": "Russia",
+            "player-points": "321",
+            "prev-rank": "189"
+        },
+        {
+            "player-name": "Jasmine Paolini",
+            "current-rank": "178",
+            "player-country": "Italy",
+            "player-points": "336",
+            "prev-rank": "187"
+        },
+        {
+            "player-name": "Sofya Zhuk",
+            "current-rank": "183",
+            "player-country": "Russia",
+            "player-points": "325",
+            "prev-rank": "185"
+        },
+        {
+            "player-name": "Kurumi Nara",
+            "current-rank": "169",
+            "player-country": "Japan",
+            "player-points": "349",
+            "prev-rank": "166"
+        },
+        {
+            "player-name": "Xinyun Han",
+            "current-rank": "170",
+            "player-country": "China",
+            "player-points": "349",
+            "prev-rank": "167"
+        },
+        {
+            "player-name": "Shilin Xu",
+            "current-rank": "198",
+            "player-country": "China",
+            "player-points": "305",
+            "prev-rank": "197"
+        },
+        {
+            "player-name": "Anna Karolina Schmiedlova",
+            "current-rank": "105",
+            "player-country": "Slovakia",
+            "player-points": "607",
+            "prev-rank": "66"
+        },
+        {
+            "player-name": "Karolina Muchova",
+            "current-rank": "106",
+            "player-country": "Czech Republic",
+            "player-points": "604",
+            "prev-rank": "102"
+        },
+        {
+            "player-name": "Mariana Duque MariÃ±o",
+            "current-rank": "125",
+            "player-country": "Colombia",
+            "player-points": "477",
+            "prev-rank": "125"
+        },
+        {
+            "player-name": "Bernarda Pera",
+            "current-rank": "110",
+            "player-country": "United States",
+            "player-points": "592",
+            "prev-rank": "107"
+        },
+        {
+            "player-name": "Beatriz Haddad Maia",
+            "current-rank": "124",
+            "player-country": "Brazil",
+            "player-points": "477",
+            "prev-rank": "165"
+        },
+        {
+            "player-name": "Mandy Minella",
+            "current-rank": "108",
+            "player-country": "Luxembourg",
+            "player-points": "600",
+            "prev-rank": "105"
+        },
+        {
+            "player-name": "Monica Niculescu",
+            "current-rank": "132",
+            "player-country": "Romania",
+            "player-points": "452",
+            "prev-rank": "133"
+        },
+        {
+            "player-name": "Zarina Diyas",
+            "current-rank": "107",
+            "player-country": "Kazakhstan",
+            "player-points": "602",
+            "prev-rank": "104"
+        },
+        {
+            "player-name": "Julia Glushko",
+            "current-rank": "130",
+            "player-country": "Israel",
+            "player-points": "461",
+            "prev-rank": "132"
+        },
+        {
+            "player-name": "CoCo Vandeweghe",
+            "current-rank": "116",
+            "player-country": "Usa",
+            "player-points": "531",
+            "prev-rank": "114"
+        },
+        {
+            "player-name": "Katerina Siniakova",
+            "current-rank": "41",
+            "player-country": "Czech Republic",
+            "player-points": "1237",
+            "prev-rank": "41"
+        },
+        {
+            "player-name": "Aliaksandra Sasnovich",
+            "current-rank": "35",
+            "player-country": "Belarus",
+            "player-points": "1495",
+            "prev-rank": "35"
+        },
+        {
+            "player-name": "Dominika Cibulkova",
+            "current-rank": "33",
+            "player-country": "Slovakia",
+            "player-points": "1512",
+            "prev-rank": "33"
+        },
+        {
+            "player-name": "Mihaela Buzarnescu",
+            "current-rank": "30",
+            "player-country": "Romania",
+            "player-points": "1650",
+            "prev-rank": "31"
+        },
+        {
+            "player-name": "Sofia Kenin",
+            "current-rank": "36",
+            "player-country": "United States",
+            "player-points": "1458",
+            "prev-rank": "36"
+        },
+        {
+            "player-name": "Jelena Ostapenko",
+            "current-rank": "29",
+            "player-country": "Latvia",
+            "player-points": "1665",
+            "prev-rank": "29"
+        },
+        {
+            "player-name": "Lesia Tsurenko",
+            "current-rank": "26",
+            "player-country": "Ukraine",
+            "player-points": "1767",
+            "prev-rank": "26"
+        },
+        {
+            "player-name": "Camila Giorgi",
+            "current-rank": "31",
+            "player-country": "Italy",
+            "player-points": "1604",
+            "prev-rank": "30"
+        },
+        {
+            "player-name": "Petra Martic",
+            "current-rank": "40",
+            "player-country": "Croatia",
+            "player-points": "1245",
+            "prev-rank": "40"
+        },
+        {
+            "player-name": "Shuai Zhang",
+            "current-rank": "42",
+            "player-country": "China",
+            "player-points": "1220",
+            "prev-rank": "42"
+        },
+        {
+            "player-name": "Katie Boulter",
+            "current-rank": "86",
+            "player-country": "Great Britain",
+            "player-points": "713",
+            "prev-rank": "88"
+        },
+        {
+            "player-name": "Irina-Camelia Begu",
+            "current-rank": "83",
+            "player-country": "Romania",
+            "player-points": "748",
+            "prev-rank": "82"
+        },
+        {
+            "player-name": "Luksika Kumkhum",
+            "current-rank": "98",
+            "player-country": "Thailand",
+            "player-points": "634",
+            "prev-rank": "93"
+        },
+        {
+            "player-name": "Laura Siegemund",
+            "current-rank": "101",
+            "player-country": "Germany",
+            "player-points": "619",
+            "prev-rank": "99"
+        },
+        {
+            "player-name": "Ekaterina Makarova",
+            "current-rank": "91",
+            "player-country": "Russia",
+            "player-points": "681",
+            "prev-rank": "91"
+        },
+        {
+            "player-name": "Sorana Cirstea",
+            "current-rank": "99",
+            "player-country": "Romania",
+            "player-points": "631",
+            "prev-rank": "103"
+        },
+        {
+            "player-name": "Johanna Larsson",
+            "current-rank": "95",
+            "player-country": "Sweden",
+            "player-points": "660",
+            "prev-rank": "87"
+        },
+        {
+            "player-name": "Vera Zvonareva",
+            "current-rank": "85",
+            "player-country": "Russia",
+            "player-points": "721",
+            "prev-rank": "86"
+        },
+        {
+            "player-name": "Ivana Jorovic",
+            "current-rank": "96",
+            "player-country": "Serbia",
+            "player-points": "643",
+            "prev-rank": "98"
+        },
+        {
+            "player-name": "Fiona Ferro",
+            "current-rank": "92",
+            "player-country": "France",
+            "player-points": "679",
+            "prev-rank": "108"
+        },
+        {
+            "player-name": "Magdalena Rybarikova",
+            "current-rank": "68",
+            "player-country": "Slovakia",
+            "player-points": "842",
+            "prev-rank": "68"
+        },
+        {
+            "player-name": "Kristina Mladenovic",
+            "current-rank": "66",
+            "player-country": "France",
+            "player-points": "893",
+            "prev-rank": "63"
+        },
+        {
+            "player-name": "Margarita Gasparyan",
+            "current-rank": "72",
+            "player-country": "Russia",
+            "player-points": "796",
+            "prev-rank": "72"
+        },
+        {
+            "player-name": "Monica Puig",
+            "current-rank": "62",
+            "player-country": "Puerto Rico",
+            "player-points": "988",
+            "prev-rank": "61"
+        },
+        {
+            "player-name": "Andrea Petkovic",
+            "current-rank": "71",
+            "player-country": "Germany",
+            "player-points": "801",
+            "prev-rank": "70"
+        },
+        {
+            "player-name": "Polona Hercog",
+            "current-rank": "64",
+            "player-country": "Slovenia",
+            "player-points": "959",
+            "prev-rank": "89"
+        },
+        {
+            "player-name": "Tatjana Maria",
+            "current-rank": "60",
+            "player-country": "Germany",
+            "player-points": "1005",
+            "prev-rank": "59"
+        },
+        {
+            "player-name": "Kaia Kanepi",
+            "current-rank": "79",
+            "player-country": "Estonia",
+            "player-points": "771",
+            "prev-rank": "75"
+        },
+        {
+            "player-name": "Vera Lapko",
+            "current-rank": "70",
+            "player-country": "Belarus",
+            "player-points": "803",
+            "prev-rank": "65"
+        },
+        {
+            "player-name": "Jennifer Brady",
+            "current-rank": "82",
+            "player-country": "Usa",
+            "player-points": "758",
+            "prev-rank": "78"
+        }
+    ]
+}
