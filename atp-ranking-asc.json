@@ -1,5 +1,4 @@
-{
- "Sheet1":   [
+[
         {
             "player-name": "Novak Djokovic",
             "player-points": "11070",
@@ -1296,5 +1295,3 @@
             "current-rank": "200"
         }
     ]
-
-}
